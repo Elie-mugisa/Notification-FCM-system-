@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "907630652058",
+    "project_id": "evalve-31106",
+    "storage_bucket": "evalve-31106.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907630652058:android:925426c5575ddabd57cd23",
+        "android_client_info": {
+          "package_name": "com.example.e_valve"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeH8Eb87xWutV5e9ZjI8xzQRuI4QdNqv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
